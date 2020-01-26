@@ -1,4 +1,8 @@
 # Android-WheelProgress
+
+This is a maintained version of zekapp repo please check out his repo https://github.com/zekapp/Android-ProgressViews
+To use this library please download the code and use it in your project
+
 A progress bar for my ongoing project.
 
 ![Check Diagram](art/pic-1.png)
